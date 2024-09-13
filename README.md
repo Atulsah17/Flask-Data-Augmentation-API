@@ -20,7 +20,8 @@ This Flask-based API allows you to augment a dataset of images in YOLO format wi
 1. Clone the repository:
 
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/Atulsah17/Flask-Data-Augmentation-API.git
+
     ```
 
 2. Install the required dependencies:
